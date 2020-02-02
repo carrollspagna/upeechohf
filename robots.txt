@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haikohngui.colombo.us/sitemap.xml
